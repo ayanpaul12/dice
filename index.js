@@ -11,5 +11,5 @@ function clillc() {
     else if (random2 == random1)
         document.querySelector("h2").innerHTML = "Draw📍";
     else
-        document.querySelector("h2").innerHTML = "Player2 wins🚩";
+        document.querySelector("h2").innerHTML = "🚩Player2 wins";
 }
