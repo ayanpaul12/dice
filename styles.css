@@ -29,7 +29,8 @@ h2{
   color: #0e124e;
 }
 button{
-  position: absolute;
+  position: relative;
+  display:flex;
     /* text-align: inherit; */
     height: 39px;
     width: 125px;
